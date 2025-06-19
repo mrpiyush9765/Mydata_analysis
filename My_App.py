@@ -1,10 +1,10 @@
 #import all labraily
-from itertools import count
+
 
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from streamlit import columns
+
 
 st.set_page_config(
     page_title='Consolefare Analytics Portal',
